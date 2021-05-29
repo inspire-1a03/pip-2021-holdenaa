@@ -41,12 +41,12 @@ The changes in travel to recreation and retail location has varied amoungst diff
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Parks_2/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
-
-https://public.tableau.com/views/Parks_2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Parks_2/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '950' height = '650' scrolling='no'></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+There is a similar trend regarding park use in Ontario counties/municipalities that clearly follows along with each wave of COVID-19 cases. The peak change from baseline occured in between the first and second wave then decreased through the second wave, remaining low until the end of the second wave. However, this similar trend has varying magnitudes base on the counties/municipalities that could possibly be due to park numbers and locations. 
 
 ## 4. Reflection 
 > What are your initial thoughts about using Tableau vs. Google Sheets? What might be the advantages of each? 
