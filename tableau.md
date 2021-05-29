@@ -41,6 +41,10 @@ The changes in travel to recreation and retail location has varied amoungst diff
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Parks_2/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
+
+https://public.tableau.com/views/Parks_2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
