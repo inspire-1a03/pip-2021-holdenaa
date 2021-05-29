@@ -26,6 +26,9 @@ The vaccination rates between provinces vary greatly, with Newfoundland having t
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ami.holden/viz/Retailandrecreation_16223214274250/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
