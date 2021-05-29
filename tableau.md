@@ -17,7 +17,7 @@ nav_order: 3
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
-
+The vaccination rates between provinces vary greatly, with Newfoundland having the lowest rate and Yukon at the highest. It is evident that the vaccination rates of territories are higher than those of the provinces, due to smaller population sizes, creating a greater vaccination rate per 100 people. 
 
 ---
 
