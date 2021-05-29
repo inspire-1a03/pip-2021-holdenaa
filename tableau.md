@@ -28,11 +28,10 @@ The vaccination rates between provinces vary greatly, with Newfoundland having t
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Retailandrecreation_16223214274250/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 
-https://public.tableau.com/views/Retailandrecreation_16223214274250/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The changes in travel to recreation and retail location has varied amoungst different regions of Canada, based on political influence, in the form of lockdowns, as well as the number COVID-19 cases. There are distinct differences between these specific regions as a result of the  diverse population distributions and political decisions within each Canadian region. 
 
 
 ---
