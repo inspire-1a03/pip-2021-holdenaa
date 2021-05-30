@@ -43,7 +43,7 @@ The figure displays similar trends in grocery/pharmacy and retail/recreation tra
 
 ## 3. Inquiry 3
 
-> Q3: *Is there any differences regarding the change in travel to workplace based on specific Canadian regions, due to various population densities?*
+> Q3: *Is there any differences regarding the change in travel to workplaces based on specific Canadian regions?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -51,3 +51,5 @@ The figure displays similar trends in grocery/pharmacy and retail/recreation tra
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The figure displays how although there are similarities in the pattern of thre travel to workplaces trend, it still varies greatly between Canadian regions. These differences exist due to Canada wide geographical diversity, that influences these trends as population distribution, number of cases, political influence, etc.  
