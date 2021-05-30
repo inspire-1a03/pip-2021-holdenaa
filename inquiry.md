@@ -25,12 +25,17 @@ When evaluating the change in travel to parks previously, there was an evident r
 
 ## 2. Inquiry 2
 
-> Q2: *enter your question here*
+> Q2: *Has there been a difference in the change of travel to essential locations (ie. grocery and pharmacy) and non-essential locations (ie. retail and recreation)?*
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Inquiry2_16224118227000/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1050' height = '850' scrolling='no'></iframe> 
+
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The figure displays similar trends in grocery/pharmacy and retail/recreation travel in Canada. Although there is a distinctly similar pattern within this trend, travel to grocery and pharmacy is higher, likely due to minimization of non-essential travel, as well as the enforcement of lockdowns. It is important to note an initial discrepency in the similarity of this trend, as there was an increase in grocery and pharmacy travel, while there was a significant decrease in retail and recreation travel. 
 
 
 ---
