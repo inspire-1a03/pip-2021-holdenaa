@@ -46,7 +46,7 @@ The changes in travel to recreation and retail location has varied amoungst diff
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
-There is a similar trend regarding park use in Ontario counties/municipalities that clearly follows along with each wave of COVID-19 cases. The peak change from baseline occured in between the first and second wave then decreased through the second wave, remaining low until the end of the second wave. However, this similar trend has varying magnitudes base on the counties/municipalities that could possibly be due to park numbers and locations. 
+There is a similar trend regarding park use in Ontario counties/municipalities that clearly follows in opposition with each wave of COVID-19 cases. The peak change from baseline occured in between the first and second wave then decreased through the second wave, remaining low until the end of the second wave. However, this similar trend has varying magnitudes base on the counties/municipalities that could possibly be due to park numbers and locations. 
 
 ## 4. Reflection 
 > What are your initial thoughts about using Tableau vs. Google Sheets? What might be the advantages of each? 
