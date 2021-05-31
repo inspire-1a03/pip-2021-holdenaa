@@ -57,7 +57,9 @@ There is a similar trend regarding park use in Ontario counties/municipalities t
 <!-- Write a short response below-->
 
   Tableau is a very useful program when you understand the workings and proper shortcuts, while googlesheets seems slightly simpler to use. I think the advantage of using Tableau is that it is very good at interpreting the data from google sheets and creating effective visualizations. An advantage to googlesheets is that it has a similar format to excel, as well as the simple layout, that makes it feel easier and more accessible. 
+  
   The mobility data clearly shows the patterns and trends of how we interact during the pandemic and are a reflection of each COVID-19 wave and strict lockdown. The fluctuations in the pattern of mobility seem to be most heavily impacted by the strict lockdowns over other stay at home orders. 
+  
   Some new questions I would like to ask of the data is to specify mobility in terms of where people are from. Are these peaks in specific locations in Canada local or are people travelling from further away, to bend the rules of lockdown? For example, I have noticed many individuals have been travelling further out to go to municipalities within Ontario, where parks are open. 
   Using both datasets in pair would be very informative, as it would provide more information and connect these trends that can be seen within the data. 
 
