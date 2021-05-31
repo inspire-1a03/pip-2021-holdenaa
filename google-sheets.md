@@ -25,7 +25,7 @@ Since the beginning of the pandemic, the numbers for daily COVID-19 cases, hospi
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=1930956236&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=532483847&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
