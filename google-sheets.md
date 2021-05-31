@@ -58,6 +58,8 @@ Vaccination rates differ most distinctly between Canada's provinces and territor
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+Mobility trends clearly follow each COVID-19 wave in Canada, where most measures will increase travel in between each wave and decrease when amidst a wave. The most drastic peak is travel to parks and recreation in between the first and second wave, whereas measures such as travel to workplace or transit stations have remained low throughout the pandemic. 
+
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
 > What questions still exist about the trends and the data? What new questions has this process generated? 
@@ -65,3 +67,8 @@ Vaccination rates differ most distinctly between Canada's provinces and territor
 
 <!-- Write a short response below-->
 
+Working with the data provides an opportunity to visualize the progression of COVID-19, as the data allows us to see numbers in terms of hospitalizations, cases, fatalities, etc. This wide pool of data has also allowed me to understand aspects of the pandemic, such as vaccine distribution, from a national and provincial perspective.
+
+When I review trends in the data, a question that still exists for myself is what are the social influences? It would be interesting to get some self-reported data to help explain certain trends. For example, is the drastic decrease in transit station mobility due to reported higher levels of people avoiding public transit? After reflecting on this data, a new question that arises for myself is how these trends compare to a year before COVID-19.
+
+I would like to see some data from a time before COVID-19, to be able to compare the different trends. 
