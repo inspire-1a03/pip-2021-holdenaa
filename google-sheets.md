@@ -16,6 +16,8 @@ nav_order: 2
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+Since the beginning of the pandemic, the numbers for daily COVID-19 cases, hospitalizations and deaths have been categorized into 3 distinct waves, where all 3 measures have increased and then slowly decreased. The first wave didn't have as many daily cases as the following waves and there was a large increase in fatalities, however, the third wave that is currently on the decline, is seen to have more daily cases but fewer fatalities. 
+
 ---
 
 ## 2. Ontario's testing and vaccination trends 
