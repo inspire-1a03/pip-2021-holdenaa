@@ -17,7 +17,7 @@ nav_order: 4
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
-inverse relationship
+
 When evaluating the change in travel to parks previously, there was an evident relationship to COVID-19 case waves. By putting this data together, we are able to see that there is a strong inverse relationship with these measures, based on the increase in travel to parks when there are decreases in new cases. 
 
 
