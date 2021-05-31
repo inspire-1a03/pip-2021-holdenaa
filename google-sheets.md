@@ -23,6 +23,8 @@ nav_order: 2
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=1930956236&amp;format=interactive"></iframe>
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
@@ -33,6 +35,8 @@ nav_order: 2
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=1930956236&amp;format=interactive"></iframe>
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
@@ -42,6 +46,8 @@ nav_order: 2
 > Q4. How has mobility changed in Canada over the pandemic?
 
 <!-- Paste your embed code for your figure below-->
+
+<iframe width="730" height="451" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfC5TAp3N0G_Pv_UsjenSJQL1tYcq60TS57dyZd6HAYixgBRFrI993zb8Th0zrdUNOJP4JmuzKlrvr/pubchart?oid=260790820&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
