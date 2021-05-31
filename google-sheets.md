@@ -30,6 +30,8 @@ Since the beginning of the pandemic, the numbers for daily COVID-19 cases, hospi
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+Testing in Ontario seemed to be slightly delayed, as there wasn't a distinct trend until April of 2020, however there was a very large and fairly linear increase in testing overtime. In terms of vaccination, the figure displays the slow administration over a few months that then began to increase dramatically through April of 2021. 
+
 ---
 
 ## 3. Vaccination rates across provinces and territories
@@ -37,7 +39,7 @@ Since the beginning of the pandemic, the numbers for daily COVID-19 cases, hospi
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=1930956236&amp;format=interactive"></iframe>
+<iframe width="798" height="404" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRimCGY4h1gHjrhLyWN4bxRFomOAW7mp8SbqEUacmT80ziPKprRU6CvGcxqfOokO0XocNxAo1SliP1w/pubchart?oid=1930956236&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
