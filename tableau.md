@@ -31,7 +31,7 @@ The vaccination rates between provinces vary greatly, with Newfoundland having t
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
-The changes in travel to recreation and retail location has varied amoungst different regions of Canada, based on political influence, in the form of lockdowns, as well as the number COVID-19 cases. There are distinct differences between these specific regions as a result of the  diverse population distributions and political decisions within each Canadian region. 
+The changes in travel to recreation and retail location has varied amoungst different regions of Canada, based on political influence in the form of lockdowns, as well as the number of COVID-19 cases. There are distinct differences between these specific regions as a result of the  diverse population distributions and political decisions within each Canadian region. 
 
 
 ---
