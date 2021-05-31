@@ -44,6 +44,8 @@ Testing in Ontario seemed to be slightly delayed, as there wasn't a distinct tre
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+Vaccination rates differ most distinctly between Canada's provinces and territories, as territories had a delayed rollout of vaccines, likely due to distribution considerations, but soon after showed a substantial increase. In comparison, the figure displays Canadian provinces' gradual increase in vaccinations over time. 
+
 ---
 
 ## 4. Canadian mobility trends 
